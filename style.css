@@ -1,0 +1,48 @@
+#main {
+    border: none;
+  width: 400px;
+   
+}
+.container{
+    background: pink;
+}
+#choice{
+   height:100px;
+   width:150px; 
+    
+}
+#btn{
+    position:relative;
+    margin-left: 20%;
+}
+#gender1{
+    text-align: left; 
+    font-weight: 500;
+}
+#show{
+    background-color: white;
+}
+#italic{
+    font-size:medium;
+    color:red;
+}
+h3{
+    color:rgb(198, 12, 245);
+    font-weight: bolder;
+}
+option{
+    background-color: white;
+}
+label{
+    font-weight: bolder;
+    padding-top:10px;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#female{
+    padding-left: 10px;
+}
+#male{
+    padding-left: 18px;
+}
